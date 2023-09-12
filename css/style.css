@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    color: black;
+}
+header{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+    text-align: center;
+}
+.main{
+    display: flex;
+}
+.menu{
+    width: 20%;
+    height: 600px;
+    background-color: aqua;
+    text-align: center;
+   
+
+}
+.menu-1{
+    height: 33.3%;
+    background-color: aquamarine;
+}
+.menu-2{
+    height: 33.3%;
+    background-color: rgb(21, 51, 41);
+}
+.menu-3{
+    height: 33.3%;
+    background-color: aquamarine;
+}
+.aside-1{
+    height: 33.3%;
+    background-color: aquamarine;
+}
+.aside-2{
+    height: 33.3%;
+    background-color: rgb(21, 51, 41);
+}
+.aside-3{
+    height: 33.3%;
+    background-color: aquamarine;
+}
+.artical{
+    width: 60%;
+    height: 600px;
+    background-color: purple;
+    text-align: center;
+   
+
+}
+.aside{
+    width: 20%;
+    height: 600px;
+    background-color: aqua;
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(17, 233, 82);
+    text-align: center;
+}
